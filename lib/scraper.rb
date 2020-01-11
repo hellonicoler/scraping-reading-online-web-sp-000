@@ -15,3 +15,4 @@ end
 # Scraping resources
 # http://ruby.bastardsbook.com/chapters/html-parsing/
 # https://www.youtube.com/watch?v=oXwdOdBUyCI
+# https://nokogiri.org/tutorials/installing_nokogiri.html
