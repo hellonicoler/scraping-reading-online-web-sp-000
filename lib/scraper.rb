@@ -13,3 +13,5 @@ courses.each do |course|
 end
 
 # Scraping resources
+# http://ruby.bastardsbook.com/chapters/html-parsing/
+# 
